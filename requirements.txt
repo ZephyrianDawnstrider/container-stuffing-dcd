@@ -1,0 +1,5 @@
+numpy
+pandas
+ortools
+streamlit
+datetime
